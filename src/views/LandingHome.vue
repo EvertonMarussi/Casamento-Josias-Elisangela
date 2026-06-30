@@ -6,18 +6,18 @@
         <!-- Desktop -->
         <source
           media="(min-width: 992px)"
-          srcset="@/assets/carta-desktop.png"
+          srcset="../assets/carta-desktop.png"
         >
 
         <!-- Tablet -->
         <source
           media="(min-width: 600px)"
-          srcset="@/assets/carta-tablet.png"
+          srcset="../assets/carta-tablet.png"
         >
 
         <!-- Celular -->
         <img
-          src="@/assets/j-e-carta.png"
+          src="../assets/j-e-carta.png"
           alt=""
           class="convite-img"
         >
@@ -230,7 +230,7 @@
 
           <div class="dress-illustration" aria-hidden="true">
             <img
-                src="@/assets/couple.png"
+                src="../assets/couple.png"
                 alt=""
                 loading="lazy"
             />
